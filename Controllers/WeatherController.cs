@@ -7,7 +7,7 @@ using StackExchange.Redis;
 public class Forecast : ControllerBase
 {
     private const string BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/";
-    private const string API_KEY = "H2RFQJDDVZFD7VXT6E5V5GAED";
+    private const string API_KEY = "your_api_key_here";
     private HttpClient client;
 
     private readonly IDatabase redisDb;

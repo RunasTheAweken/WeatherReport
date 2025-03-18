@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport.csproj": {}
+    "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport\\WeatherReport.csproj": {}
   },
   "projects": {
-    "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport.csproj": {
+    "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport\\WeatherReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport.csproj",
+        "projectUniqueName": "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport\\WeatherReport.csproj",
         "projectName": "WeatherReport",
-        "projectPath": "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport.csproj",
+        "projectPath": "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport\\WeatherReport.csproj",
         "packagesPath": "C:\\Users\\runas\\.nuget\\packages\\",
-        "outputPath": "D:\\Worksapce\\C#\\WeatherReport\\obj\\",
+        "outputPath": "D:\\Worksapce\\C#\\WeatherReport\\WeatherReport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\runas\\AppData\\Roaming\\NuGet\\NuGet.Config",
